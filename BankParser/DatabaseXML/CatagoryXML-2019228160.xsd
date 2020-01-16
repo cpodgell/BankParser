@@ -1,0 +1,283 @@
+<?xml version="1.0" standalone="yes"?>
+<Catagory xmlns="http://tempuri.org/Catagory.xsd">
+  <tttCatagory>
+    <CatagoryName>SHOPPERSDRUGMART2221 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Drugstore</BudgetItemName>
+    <Description>SHOPPERSDRUGMART2221 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STARBUCKS 04544 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>STARBUCKS 04544 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>JUKE FRIED CHICKEN VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>JUKE FRIED CHICKEN VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CLIFFHANGER VANCOUVER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>CLIFFHANGER VANCOUVER VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PRODUCTIONCRATE HTTPSWWW.PRODCA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>PRODUCTIONCRATE HTTPSWWW.PRODCA</Description>
+    <SubCatagory />
+    <UniqueExpenseID>c2608574c39b462bada6b2576cf6503a</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>Pond5 Dublin</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>Pond5 Dublin</Description>
+    <SubCatagory />
+    <UniqueExpenseID>93781ac2a1d54221965eb605cf242214</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PURE FREEDOM YYOGA - KITSVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>PURE FREEDOM YYOGA - KITSVANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMZ*Amazon.ca AMAZON.CA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>AMZ*Amazon.ca AMAZON.CA ON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>bad046b4428f40edba3df6c704745252</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BLD*RESUME 8552130348</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>BLD*RESUME 8552130348</Description>
+    <SubCatagory />
+    <UniqueExpenseID>c95f1c03d12a4a1cbea416e90775251b</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TIM HORTONS 3161 QTH VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TIM HORTONS 3161 QTH VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LIQUOR</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Alcohol</BudgetItemName>
+    <Description>LIQUOR</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>UFC.COM LONDON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Subscriptions</BudgetItemName>
+    <Description>UFC.COM LONDON</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DENNY'S</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>DENNY'S</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>7-ELEVEN STORE #32999 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>7-ELEVEN STORE #32999 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RESTAURANT</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>RESTAURANT</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>YMCA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>YMCA</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>Amazon.ca*MB13X2KQ1 AMAZON.CA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>Amazon.ca*MB13X2KQ1 AMAZON.CA ON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>5431093d1c374679a19f39a7fa670df2</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>Amazon.ca*MB1LC53M2 AMAZON.CA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>Amazon.ca*MB1LC53M2 AMAZON.CA ON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>97a9e6b0095c4a27b67a8cf1d445e42b</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>Amazon.ca*MB6ZC3PU1 AMAZON.CA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>Amazon.ca*MB6ZC3PU1 AMAZON.CA ON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>50f7b259979c428ab4f360d94da9e375</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SUBWAY</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SUBWAY</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MILANO COFFEE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MILANO COFFEE</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SUPERMARKET</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Groceries</BudgetItemName>
+    <Description>SUPERMARKET</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TACOFINO</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TACOFINO</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMZN Mktp CA*MB82T60X0 WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>AMZN Mktp CA*MB82T60X0 WWW.AMAZON.CAON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>d2248a1dfdea4fed82be0d6d6b7ba7d0</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMZN Mktp CA*MB3GH21T0 WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>AMZN Mktp CA*MB3GH21T0 WWW.AMAZON.CAON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>6b6794b6b85941399a19f1d138edbb06</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMZN Mktp CA*MB8ZA6LN2 WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>AMZN Mktp CA*MB8ZA6LN2 WWW.AMAZON.CAON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>5fe0da01acae4490b0e17afbbf218363</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMZN Mktp CA*MB3ZE7LF2 WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>AMZN Mktp CA*MB3ZE7LF2 WWW.AMAZON.CAON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>0bcf8d4160cd4c779b371af066b06a84</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WESTJET</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Flight</BudgetItemName>
+    <Description>WESTJET</Description>
+    <SubCatagory />
+    <UniqueExpenseID>86547983b5c043b0b64a83c886e724df</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STORE #37883 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Groceries</BudgetItemName>
+    <Description>STORE #37883 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID>04520ce783f749ddb58cdefe9a4cde1b</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>QQ SUSHI</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>QQ SUSHI</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMZN Mktp CA*MB2IT3JB2 WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>AMZN Mktp CA*MB2IT3JB2 WWW.AMAZON.CAON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>73f2988f6f324ca7b7799c21672da66e</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SPINE, ESOTERICSOFTWAR ESOTERICS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>SPINE, ESOTERICSOFTWAR ESOTERICS</Description>
+    <SubCatagory />
+    <UniqueExpenseID>c1feb2a0ba7948f1a3a9688b0c89f3eb</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MODERN MAN BARBER SHOP</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Haircut</BudgetItemName>
+    <Description>MODERN MAN BARBER SHOP</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RED BEEF NOODLE KITCHE VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>RED BEEF NOODLE KITCHE VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>REAL CDN SUPERSTORE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Groceries</BudgetItemName>
+    <Description>REAL CDN SUPERSTORE</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+</Catagory>

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<BudgetItems xmlns="http://tempuri.org/BudgetItems.xsd">
+  <tttBudgetItems>
+    <ItemName>Rent</ItemName>
+    <ItemAmount>900.00</ItemAmount>
+    <ItemType>Fixed</ItemType>
+    <Color>Color [Red]</Color>
+  </tttBudgetItems>
+  <tttBudgetItems>
+    <ItemName>hehe</ItemName>
+    <ItemAmount>345</ItemAmount>
+    <ItemType>Fixed</ItemType>
+    <Color>Color [A=255, R=255, G=128, B=128]</Color>
+  </tttBudgetItems>
+</BudgetItems>

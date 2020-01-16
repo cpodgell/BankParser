@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<Catagory xmlns="http://tempuri.org/Catagory.xsd">
+  <tttCatagory>
+    <CatagoryName>SUBWAY # 30985 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SUBWAY # 30985 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHOPPERSDRUGMART2221 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Drugstore</BudgetItemName>
+    <Description>SHOPPERSDRUGMART2221 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STARBUCKS 04544 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>STARBUCKS 04544 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>JUKE FRIED CHICKEN VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>JUKE FRIED CHICKEN VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CLIFFHANGER VANCOUVER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>CLIFFHANGER VANCOUVER VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+</Catagory>

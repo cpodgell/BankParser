@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DeletedExpenses xmlns="http://tempuri.org/DeletedExpenses.xsd">
+  <tttDeletedExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>DR. K. N. GEORGAS VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>2370.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a6b7f81d66ce4a30aa1499b87bda451c</UniqueExpenseID>
+  </tttDeletedExpenses>
+</DeletedExpenses>

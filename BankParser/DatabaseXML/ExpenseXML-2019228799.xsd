@@ -1,0 +1,1695 @@
+<?xml version="1.0" standalone="yes"?>
+<Expenses xmlns="http://tempuri.org/Expenses.xsd">
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190211</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>75.69</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>deae4c6025524d03a60805db4b391e6e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190211</ChequeNumber>
+    <Description_x0020_1>RZ VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>29.12</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>c1c5f8b72c624951a09b025256f56517</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190211</ChequeNumber>
+    <Description_x0020_1>MODO CO OPERATIVE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>8.96</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>95c75635d4ec412280ce6a4fc74bcb26</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-12T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190212</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>30.12</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>e4a2279bfd8a40b69e738637700454bb</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190218</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>14.58</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>41a49569d34d43f8b04ddc8ff15e24c5</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190218</ChequeNumber>
+    <Description_x0020_1>CAR2GO 855-454-1002 BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>4.7</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>6100976bba8f44c8a1f057285a03aa93</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-26T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190226</ChequeNumber>
+    <Description_x0020_1>NETFLIX.COM 866-716-0414 ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>50c1dda99b3e4c0bb9adda74b8d964a8</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-02-27T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190227</ChequeNumber>
+    <Description_x0020_1>CAR2GO 855-454-1002 BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>7.93</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>976d21c2729a4e6691286f57bdc00013</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2018-12-31T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20181231</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>27.49</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>db734a7eb2b842a599f17469b3fb4be3</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2018-12-31T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20181231</ChequeNumber>
+    <Description_x0020_1>CAR2GO 855-454-1002 BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>3.63</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>b07242f832274cb6b6e0a1de20c82f05</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-04T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190104</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>66.2</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>6dd788b0a6cb4ca49cb40d7c6b69bc48</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-08T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190108</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>36.59</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>897a0dcf3fd24497b2c7d214f4196388</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190111</ChequeNumber>
+    <Description_x0020_1>MODO CO OPERATIVE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>8.96</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a233dc1470c9424d8a9af26c1ec8953b</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190114</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>32.37</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>47285c406d0e4013a0bf58df2f206788</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190114</ChequeNumber>
+    <Description_x0020_1>RZ VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>29.12</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>ba533ec9ab8744d0a56db442a6687c00</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190114</ChequeNumber>
+    <Description_x0020_1>CAR2GO 855-454-1002 BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>4.7</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>0cf0387e2c1041c8a3f74bac7beb8018</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-15T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190115</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>44.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>85bd99629f28426ba553e8ccb6cf6467</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190116</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>58.6</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>946154bf83da48db90badb1f93bc0d24</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-21T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190121</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>52.13</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>87087de286344c93949341f16ce80d89</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-25T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190125</ChequeNumber>
+    <Description_x0020_1>COMPASS AUTOLOAD 604-398-2042 BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>60</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>97e16ee2693542358135011791b54ddd</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-28T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190128</ChequeNumber>
+    <Description_x0020_1>NETFLIX.COM 866-716-0414 ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>4afc5130e5bb45689d7e937e871c66c5</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-28T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190128</ChequeNumber>
+    <Description_x0020_1>NOFRILLS ALFIE'S #3411 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>68.63</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>633ede546756444885f8d5fe216aa9d9</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-28T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190128</ChequeNumber>
+    <Description_x0020_1>CAR2GO 855-454-1002 BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>6.5</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>44281043c3a64762b21a6462c51bc282</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>BMO</AccountType>
+    <AccountNumber>'5191230160438306'</AccountNumber>
+    <TransactionDate>2019-01-28T00:00:00-08:00</TransactionDate>
+    <ChequeNumber>20190128</ChequeNumber>
+    <Description_x0020_1>INTEREST PURCHASES</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>32.3</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>5e584a962d5140039e1019155eda173e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-04T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.28</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>c4fea29e449244c5b82a6856c705666b</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-04T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>28.33</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>23c67950df1c4da1ae673a849ba61e2c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-05T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>STARBUCKS 04544 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.19</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>ac6ab75f7ab3433681f6bcc325c54621</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-06T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>JUKE FRIED CHICKEN VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>26.51</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>b0eb698f501146d285cbc3d7a8cd0c3d</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-06T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>CLIFFHANGER VANCOUVER VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>21.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>052d3ae15c8a468aaef93ceba2a69e85</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-07T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>PRODUCTIONCRATE HTTPSWWW.PRODCA</Description_x0020_1>
+    <Description_x0020_2>49.00 USD @ 1.372600000000</Description_x0020_2>
+    <CAD_x0024_>67.26</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>33e911d029b04022ab76c732165de04c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-07T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>Pond5 Dublin</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>5ce564443d3d42eba80fa8b174480d2c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-07T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>PURE FREEDOM YYOGA - KITSVANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>3.50</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>6ad9e59eb66c448d9639a5ab16134b26</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-08T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZ*Amazon.ca AMAZON.CA ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>32.55</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>4aa3b5228f404ec79e6dd5cd5cbf0579</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-08T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>PURE FREEDOM YYOGA - KITSVANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>3.50</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>df7d7ad99571435ca40c3f9c49e43517</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-09T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>BLD*RESUME 8552130348</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>34.95</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>4606a25ecd954054a66b2f30fb74fba8</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-09T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.28</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>0ea1a8e7a11f4a159501a6a1462fb900</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-10T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>TIM HORTONS 3161 QTH VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>6.29</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>60d6559a2b604da080fe5f8dfeeb9d8b</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>74eae52ddef64a2dbcb3be6e2ebccda1</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>BURRARD LIQUOR STORE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>20.45</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>34216ce5ed2a4f17aa003406556c871e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>5.26</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>2eb5040cc2c446418a242d6e0cf0a1bf</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>UFC.COM LONDON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>91f4a0024c4e469f8d4663a64705d8c5</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-12T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>MILANO COFFEE ROASTER &amp; GVANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.35</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>e622e2dbc4424818bcffc52ac229e86c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-12T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>CARRAL SUPERMARKET VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>2.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>b436f22644744bbd86a1f313726b0706</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-13T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>TACOFINO GASTOWN VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>13.65</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>08a114fe936144eab78f99796e3ff72b</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-13T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZN Mktp CA*MB82T60X0 WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>38.92</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>9e37f79896a24d7d98dd5bf8ec543506</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-13T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>18.67</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>b9f74bece47647fbb574121a3d045fc3</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZN Mktp CA*MB3GH21T0 WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>35.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>7893919cfba44ad9987b10ea65f3bd86</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZN Mktp CA*MB8ZA6LN2 WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>39.64</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>8b879f715b4c4ca2b25b2230456b1981</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZN Mktp CA*MB3ZE7LF2 WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>39.64</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>4bd853f34cef47c98ff14d876f3c3b5a</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>TIM HORTONS 3161 QTH VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>6.29</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>e5492867d8c64f2692198bb570d177a8</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>WESTJET 8382144536384CALGARY AB</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>222.86</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>7e452ee5a0f74ed3a318532cb0b20ae7</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-15T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>Amazon.ca*MB6ZC3PU1 AMAZON.CA ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>22.68</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>6a95b0f7df044aca8bc0f3ec662cd577</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-15T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.23</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>f5ef183778544f9d9d6deaf0482aeae5</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-15T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>STORE #37883 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.77</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>54b14227c7534e0eb3a2d0461246d038</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>DR. K. N. GEORGAS VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>2370.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a6b7f81d66ce4a30aa1499b87bda451c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-17T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>Amazon.ca*MB1LC53M2 AMAZON.CA ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>30.32</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>c8c6cc2a9e7b4e5891f1e69dfec4328c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-17T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>QQ SUSHI VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>11.50</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>239ae2c8d9e44322a2c8feb0c68d902e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZN Mktp CA*MB2IT3JB2 WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>48.50</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>9fdd573c27b7426d9518b6551335a611</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SPINE, ESOTERICSOFTWAR ESOTERICS</Description_x0020_1>
+    <Description_x0020_2>69.00 USD @ 1.361800000000</Description_x0020_2>
+    <CAD_x0024_>93.97</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>8cf014815c074083a0624b6177e26953</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-21T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>MODERN MAN BARBER SHOP VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>37.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a6f0ccac91e6407aa06445c0a6f6b873</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-22T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>RED BEEF NOODLE KITCHE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>21.97</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>73426cc8db0a47089eccb2abb11a03e5</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-22T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>QQ SUSHI VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>7.90</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>ab1948e823fa49748810eadc10051607</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-23T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>URBAN BODY LASER VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>104.64</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>973606b02ff6496685a884ee6bdeb98e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-23T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>QQ SUSHI VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>8.30</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>1fdd6a856d844a53905e89059a42f664</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-25T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>ARTS FACTORY SOCIETY VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>6.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>eed780205bb649069e10fdc3cad8ed57</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-25T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>QQ SUSHI VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>8.40</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>48f142bf66ba4b8eac7a1ba8a08c1280</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-26T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>EARL'S FIR STREET VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>31.06</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>f29247d379034f4c8f44b0d0091fb6b3</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-26T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>8.26</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>2a2c60d4a9ca4e7caf0d520457002270</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-28T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>QQ SUSHI VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>8.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>cdec70685a144ab2814c0659125b30f4</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-29T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>Amazon.ca*MB13X2KQ1 AMAZON.CA ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>18.97</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>1076a84e6c9642109d41503e95310876</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-29T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>TIM HORTONS 3161 QTH VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>4.66</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>717a1a29b05740a8a94dcccb1c4ab3b0</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-30T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.28</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>8ab1b1b0a965444da4c84cfb132bb57e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-31T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>GREEN BEAN CAFE RICHMOND BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>2.26</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>601f4209c062486084f0de4fd07d4bd6</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-31T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>WEST CABS CAR #110 WEST KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>31.86</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>898abb9339664f509d68b145619fe498</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-31T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>ACT YMCA OKANAGAN KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>ecdc132a168b4d218b3b26f71739210e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-01-31T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SAVE ON FOODS #2229 KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>59.80</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>e9896ea21144456da631eaeccef000fa</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-01T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>ENERGYPLEX FAMILY RECREATKELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>3.46</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a2c90452306a44d1af705db04ad6639e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-01T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>ENERGYPLEX FAMILY RECREATKELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>15.70</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>58f2195f05464d54bfcf1358654cd5f9</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-01T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>STARBUCKS 04659 WESTBANK BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>3.41</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>402594e9af20442886cdc25b39f3aa43</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-02T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2217 KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>19.20</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>99eafe44c09540ed848d6e29fe481e60</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-02T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>REAL CDN SUPERSTORE #1 KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>89.38</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>8a3b77ae3d8847ff98d517600fbb6128</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-03T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>PLANET LAZER KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>58.25</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>d4d2aaed63eb4b32931620872a1cf989</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-03T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SCANDIA GOLF &amp; GAMES KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>d0bd28d417684bce8e3d73e83d7f6707</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-03T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SCANDIA GOLF &amp; GAMES KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>21.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>eeddbfe931f049d58fef02b3255cf26f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-03T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>QUIZNOS # 857 KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>16.25</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>5318845e38804438bde9555573540957</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-03T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>ACT YMCA OKANAGAN KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>d74277ac840f4ff985252079fae814b9</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-04T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>HY'S ENCORE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>63.59</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>0d3106ad6e85490e9ffbb6c6c94d613c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-04T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>TIM HORTONS 3161 QTH VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>6.29</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>4bb3c74be2e84180af629b87a64cebd1</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-04T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>TIM HORTONS #8469 KELOWNA BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>3.97</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>65ad7125c79c46f5aec42bee32ce013f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-05T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>55f82699f40f4096aa1cdef7a11fc724</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-05T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>EVENTBRITE/TECHTALENTD TORONTO ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>17.78</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>e93e437279eb4fb485b1b1a4fcb059cd</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-06T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>BLD*RESUME 8552130348</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>34.95</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a11586b48e99485b92420c2a62b501a8</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-06T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>890cabb40c9f4fc7b35fed9c87bf1a79</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-07T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>27.20</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>45ac5245608e4f82afb5b1aa145f6409</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-08T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.28</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>eadb96e4109141d791dbfdc2cfe18e59</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-08T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>WESTJET 8382145329556CALGARY AB</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>227.06</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>81327eb7f90c41baa6ab10da80f4d5a1</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-09T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>PIZZA GARDEN VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>6.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>6f5a5d4c089c4686a6f173caacbf293e</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-09T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>STARBUCKS 04544 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.71</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>199c9dcf10824d44a5d0003f5bb32f21</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-09T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>7-ELEVEN STORE #32999 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>6.49</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>96a2b56d1de747c3b4eabbade842fd1a</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-09T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>BIMINI BEER &amp; WINE STORE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>17.95</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>2f9a9768e0c340da9b16ac32faf868d1</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-09T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>THEIR THERE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>13.28</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>436e85b04ff343fb919d183859755c35</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZ*Costume88 WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>35.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>d86e62044b9d4c6cb8da973c8eeaaec6</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-11T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>UFC.COM LONDON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>8118934df07c43f2a1fc5c7ac627e28f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-13T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>UDEMY ONLINE COURSES HTTPSWWW.UDEMCA</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>14.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>69a26071672b4504a13ff08f54b6bd2a</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-13T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>20bcfbfc6a334900a3c57c2c84b9b02f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-13T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>4.72</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>24a24e03636e44a2b297782ed1d4f0fb</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>52a816152dba4a7eb625e1091a0017c6</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-14T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>DENNY'S 03-104 VANCOUV VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>20.08</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>5d0f0b7d32d6487c843a708c70cad4ed</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-15T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.28</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>5ebd1f13d2214a938328f0db948b99e7</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZ*LETSQK WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>24.25</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a8bbe0f14c2a4ccb940d1baf8f29ab05</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>MARKETPLACE IGA #23 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>49.75</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>bc78f25bc3834567bd7ae9a1ee96726b</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>MCDONALD'S #22077 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>7.85</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>338c4d6c5e3542cc9682f2cc442d6f7c</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>BC LIQUOR #117 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>41.53</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>2a5a0822b2d74ef7b9fc9b4d8e41e4c6</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-16T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>AMZN Mktp CA*MI8NP0191 WWW.AMAZON.CAON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>10.62</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a42aa5ba9c8e494683bde8909d188695</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-17T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>STARBUCKS 04502 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>3.41</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>fdef404bebda43cda30b3282a52c58ac</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-17T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>14.54</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a180f5c55f7d4b97a26ab9f51489b743</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>MINISO (ROBSON) VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>5.59</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>c56e7a5b9cf44de39ac6187a43006521</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>A &amp; W RESTAURANT VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>7.97</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>80dee0392d034fe58052998bb978ae79</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-19T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>HORIN RAMEN SAKE + BAR VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>14.97</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>979936558641414ca3f174484e658d41</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>HUDSON'S BAY #1101 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>54.88</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a88a569be6ad4adab90a53529951fdbc</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-18T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>7.39</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>dffc1690bb8a4ad5a713954556ad750f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-19T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.23</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>ea62f1742cf748429c2c4f85710baa11</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-20T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>VIJ'S RESTAURANT VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>130.15</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>927f06eb86264e55953a0f29a7bfeca4</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-20T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.23</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>961c740ba06d4699a12ae77283dbfbb7</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-20T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>UDEMY ONLINE COURSES HTTPSWWW.UDEMCA</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>24.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>7d8b5aafc563459cba06ff5774cb2f69</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-20T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>UDEMY ONLINE COURSES HTTPSWWW.UDEMCA</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>24.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>0e1c48e04cff4489893cd5eadfee3586</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-21T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.23</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a3b18833ba884f4698505d9bac3fca6d</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-21T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>WONDERAMA CONVENIENCE STOVANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>4.37</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>88d15772bffe48f7bb396ecdbc49b651</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-21T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>UDEMY ONLINE COURSES 8888385432 CA</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>24.99</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>61b4f52738ec4782b7cdbdb0f0b53740</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-21T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SHOPPERSDRUGMART2221 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>4.67</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a792448833e842b09c4626f343419d36</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-22T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.23</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a2875f2f5ee04982bba94f470b4aae38</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-23T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>GOURMET WAREHOUSE VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>60.88</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>87e108ca266e42468d355ee412d87cbd</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-23T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>HIGH POINT BEER WINE SPIRVANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>19.75</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>378f4ab008164ecfa7ece5dcd8fe803f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-23T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>REAL CDN SUPERSTORE #1 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>132.13</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>f7372f3cb10d491692cd35891f06276f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-24T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>CLIFFHANGER VANCOUVER VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>21.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>c4fd2cc092174e2796b5728b1eacbb1b</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-24T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>PAY PARKING STATION VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>2.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>5e4e8cf88c584494b5f48b87365e460f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-24T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>MY SLICE PIZZA VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>14.70</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>13ad55868f694e7f957d52a246a21d6f</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-25T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>MODERN MAN BARBER SHOP VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>37.17</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>17e76844b15c4c9f93db27974a7172bf</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-25T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.23</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>edb3fd69cfb44625907d62eea5d5dda5</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-25T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>COINAMATIC CANADA INC MISSISSAUGA ON</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>40.00</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>4f4858d0daab45828a3a13124aff7856</UniqueExpenseID>
+  </tttExpenses>
+  <tttExpenses>
+    <AccountType>Visa</AccountType>
+    <AccountNumber>4514011811526605</AccountNumber>
+    <TransactionDate>2019-02-26T00:00:00-08:00</TransactionDate>
+    <ChequeNumber />
+    <Description_x0020_1>SUBWAY # 30985 VANCOUVER BC</Description_x0020_1>
+    <Description_x0020_2 />
+    <CAD_x0024_>9.23</CAD_x0024_>
+    <USD_x0024_>0</USD_x0024_>
+    <Catagory />
+    <UniqueExpenseID>a5d169b5ad304a1584c5612e38ba2a52</UniqueExpenseID>
+  </tttExpenses>
+</Expenses>

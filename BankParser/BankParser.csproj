@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{140A7FCE-2FB2-430E-B847-DB61CB435BA3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BankParser</RootNamespace>
+    <AssemblyName>BankParser</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessRulesGlobal.cs" />
+    <Compile Include="Controller\AnalysisController.cs" />
+    <Compile Include="Controller\BudgetFormController.cs" />
+    <Compile Include="Controller\CatagoryAssignController.cs" />
+    <Compile Include="Controller\ConfigurationReader.cs" />
+    <Compile Include="Controller\ExpenseEditFormController.cs" />
+    <Compile Include="Controller\ExpenseImportFormController.cs" />
+    <Compile Include="Controller\FormattingUtils.cs" />
+    <Compile Include="Controller\IncomeFormController.cs" />
+    <Compile Include="Controller\SubCatagoryFormController.cs" />
+    <Compile Include="EntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EntryForm.Designer.cs">
+      <DependentUpon>EntryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModalForm\ModalAssignCatagory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModalForm\ModalAssignCatagory.Designer.cs">
+      <DependentUpon>ModalAssignCatagory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModalForm\PromptPathBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModalForm\PromptPathBox.Designer.cs">
+      <DependentUpon>PromptPathBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModalForm\XMLFinder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModalForm\XMLFinder.Designer.cs">
+      <DependentUpon>XMLFinder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\BudgetFormModel.cs" />
+    <Compile Include="Model\CatagoryAssigningModel.cs" />
+    <Compile Include="Model\DataSets\BudgetItems.cs">
+      <DependentUpon>BudgetItems.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\Catagory.cs">
+      <DependentUpon>Catagory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\Catagory.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Catagory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\DeletedExpenses.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DeletedExpenses.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\Expenses.cs">
+      <DependentUpon>Expenses.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\Expenses.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Expenses.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\Income.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Income.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\ItemTypes.cs">
+      <DependentUpon>ItemTypes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\SubCatagory.cs">
+      <DependentUpon>SubCatagory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\SubCatagory.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SubCatagory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ExpenseEditFormModel.cs" />
+    <Compile Include="Model\ExpenseImportFormModel.cs" />
+    <Compile Include="Model\IncomeFormModel.cs" />
+    <Compile Include="Model\ModelBusinessRules.cs" />
+    <Compile Include="Model\SubCatagoryFormModel.cs" />
+    <Compile Include="Utils\DataUtils.cs" />
+    <Compile Include="Utils\PathUtils.cs" />
+    <Compile Include="View\AnalysisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AnalysisForm.Designer.cs">
+      <DependentUpon>AnalysisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\BudgetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\BudgetForm.Designer.cs">
+      <DependentUpon>BudgetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CatagoryMapping.cs">
+      <DependentUpon>CatagoryMapping.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CatagoryMapping.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CatagoryMapping.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\TablePopulator.cs" />
+    <Compile Include="Model\DataSets\BudgetItems.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BudgetItems.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DataSets\ItemTypes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ItemTypes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationForm.Designer.cs">
+      <DependentUpon>InformationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\SetupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\SetupForm.Designer.cs">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SubCatagoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\SubCatagoryForm.Designer.cs">
+      <DependentUpon>SubCatagoryForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="EntryForm.resx">
+      <DependentUpon>EntryForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModalForm\ModalAssignCatagory.resx">
+      <DependentUpon>ModalAssignCatagory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModalForm\PromptPathBox.resx">
+      <DependentUpon>PromptPathBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModalForm\XMLFinder.resx">
+      <DependentUpon>XMLFinder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AnalysisForm.resx">
+      <DependentUpon>AnalysisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\BudgetForm.resx">
+      <DependentUpon>BudgetForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationForm.resx">
+      <DependentUpon>InformationForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextSelection.resx">
+      <DependentUpon>TextSelection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CatagoryAssigningForm.resx">
+      <DependentUpon>CatagoryAssigningForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ExpenseEditForm.resx">
+      <DependentUpon>ExpenseEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ExpenseImportForm.resx">
+      <DependentUpon>ExpenseImportForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\IncomeForm.resx">
+      <DependentUpon>IncomeForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\SetupForm.resx">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SubCatagoryForm.resx">
+      <DependentUpon>SubCatagoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="CatagoryMapping.xsc">
+      <DependentUpon>CatagoryMapping.xsd</DependentUpon>
+    </None>
+    <None Include="CatagoryMapping.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CatagoryMapping.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="CatagoryMapping.xss">
+      <DependentUpon>CatagoryMapping.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\BudgetItems.xsc">
+      <DependentUpon>BudgetItems.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\BudgetItems.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BudgetItems.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\BudgetItems.xss">
+      <DependentUpon>BudgetItems.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\Catagory.xsc">
+      <DependentUpon>Catagory.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\Catagory.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Catagory.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\Catagory.xss">
+      <DependentUpon>Catagory.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\DeletedExpenses.xsc">
+      <DependentUpon>DeletedExpenses.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\DeletedExpenses.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DeletedExpenses.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\DeletedExpenses.xss">
+      <DependentUpon>DeletedExpenses.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\Expenses.xsc">
+      <DependentUpon>Expenses.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\Expenses.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Expenses.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\Expenses.xss">
+      <DependentUpon>Expenses.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\Income.xsc">
+      <DependentUpon>Income.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\Income.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Income.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\Income.xss">
+      <DependentUpon>Income.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\ItemTypes.xsc">
+      <DependentUpon>ItemTypes.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\ItemTypes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ItemTypes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\ItemTypes.xss">
+      <DependentUpon>ItemTypes.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\SubCatagory.xsc">
+      <DependentUpon>SubCatagory.xsd</DependentUpon>
+    </None>
+    <None Include="Model\DataSets\SubCatagory.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SubCatagory.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Model\DataSets\SubCatagory.xss">
+      <DependentUpon>SubCatagory.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TextSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextSelection.Designer.cs">
+      <DependentUpon>TextSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CatagoryAssigningForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CatagoryAssigningForm.Designer.cs">
+      <DependentUpon>CatagoryAssigningForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ExpenseEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ExpenseEditForm.Designer.cs">
+      <DependentUpon>ExpenseEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ExpenseImportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ExpenseImportForm.Designer.cs">
+      <DependentUpon>ExpenseImportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\IncomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\IncomeForm.Designer.cs">
+      <DependentUpon>IncomeForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\xml\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\bubblechart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\money_dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\data_grid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\advanced_data_grid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\chart_line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\ruby_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\ruby_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\database.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

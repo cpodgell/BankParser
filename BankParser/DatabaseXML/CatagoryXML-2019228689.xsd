@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<Catagory xmlns="http://tempuri.org/Catagory.xsd">
+  <tttCatagory>
+    <CatagoryName>SUBWAY # 30985 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SUBWAY # 30985 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHOPPERSDRUGMART2221 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Drugstore</BudgetItemName>
+    <Description>SHOPPERSDRUGMART2221 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STARBUCKS 04544 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>STARBUCKS 04544 VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>JUKE FRIED CHICKEN VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>JUKE FRIED CHICKEN VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CLIFFHANGER VANCOUVER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>CLIFFHANGER VANCOUVER VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PRODUCTIONCRATE HTTPSWWW.PRODCA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>PRODUCTIONCRATE HTTPSWWW.PRODCA</Description>
+    <SubCatagory />
+    <UniqueExpenseID>c2608574c39b462bada6b2576cf6503a</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>Pond5 Dublin</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>Pond5 Dublin</Description>
+    <SubCatagory />
+    <UniqueExpenseID>93781ac2a1d54221965eb605cf242214</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PURE FREEDOM YYOGA - KITSVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>PURE FREEDOM YYOGA - KITSVANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMZ*Amazon.ca AMAZON.CA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Business</BudgetItemName>
+    <Description>AMZ*Amazon.ca AMAZON.CA ON</Description>
+    <SubCatagory />
+    <UniqueExpenseID>bad046b4428f40edba3df6c704745252</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BLD*RESUME 8552130348</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>BLD*RESUME 8552130348</Description>
+    <SubCatagory />
+    <UniqueExpenseID>c95f1c03d12a4a1cbea416e90775251b</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TIM HORTONS 3161 QTH VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TIM HORTONS 3161 QTH VANCOUVER BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LIQUOR</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Alcohol</BudgetItemName>
+    <Description>LIQUOR</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+</Catagory>

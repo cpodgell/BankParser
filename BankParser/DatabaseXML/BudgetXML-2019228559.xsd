@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<BudgetItems xmlns="http://tempuri.org/BudgetItems.xsd">
+  <tttBudgetItems>
+    <ItemName>Rent</ItemName>
+    <ItemAmount>970.00</ItemAmount>
+    <ItemType>Fixed</ItemType>
+    <ItemCode>RNT</ItemCode>
+  </tttBudgetItems>
+  <tttBudgetItems>
+    <ItemName>Cell</ItemName>
+    <ItemAmount>97.00</ItemAmount>
+    <ItemType>Fixed</ItemType>
+    <ItemCode>CELL</ItemCode>
+  </tttBudgetItems>
+</BudgetItems>

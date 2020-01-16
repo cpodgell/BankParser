@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DeletedExpenses" targetNamespace="http://tempuri.org/DeletedExpenses.xsd" xmlns:mstns="http://tempuri.org/DeletedExpenses.xsd" xmlns="http://tempuri.org/DeletedExpenses.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DeletedExpenses" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DeletedExpenses" msprop:Generator_UserDSName="DeletedExpenses">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tttDeletedExpenses" msprop:Generator_TableClassName="tttDeletedExpensesDataTable" msprop:Generator_TableVarName="tabletttDeletedExpenses" msprop:Generator_TablePropName="tttDeletedExpenses" msprop:Generator_RowDeletingName="tttDeletedExpensesRowDeleting" msprop:Generator_RowChangingName="tttDeletedExpensesRowChanging" msprop:Generator_RowEvHandlerName="tttDeletedExpensesRowChangeEventHandler" msprop:Generator_RowDeletedName="tttDeletedExpensesRowDeleted" msprop:Generator_UserTableName="tttDeletedExpenses" msprop:Generator_RowChangedName="tttDeletedExpensesRowChanged" msprop:Generator_RowEvArgName="tttDeletedExpensesRowChangeEvent" msprop:Generator_RowClassName="tttDeletedExpensesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AccountType" msprop:Generator_ColumnVarNameInTable="columnAccountType" msprop:Generator_ColumnPropNameInRow="AccountType" msprop:Generator_ColumnPropNameInTable="AccountTypeColumn" msprop:Generator_UserColumnName="AccountType" type="xs:string" minOccurs="0" />
+              <xs:element name="AccountNumber" msprop:Generator_ColumnVarNameInTable="columnAccountNumber" msprop:Generator_ColumnPropNameInRow="AccountNumber" msprop:Generator_ColumnPropNameInTable="AccountNumberColumn" msprop:Generator_UserColumnName="AccountNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="TransactionDate" msprop:Generator_ColumnVarNameInTable="columnTransactionDate" msprop:Generator_ColumnPropNameInRow="TransactionDate" msprop:Generator_ColumnPropNameInTable="TransactionDateColumn" msprop:Generator_UserColumnName="TransactionDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ChequeNumber" msprop:Generator_ColumnVarNameInTable="columnChequeNumber" msprop:Generator_ColumnPropNameInRow="ChequeNumber" msprop:Generator_ColumnPropNameInTable="ChequeNumberColumn" msprop:Generator_UserColumnName="ChequeNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="Description_x0020_1" msprop:Generator_ColumnVarNameInTable="columnDescription_1" msprop:Generator_ColumnPropNameInRow="Description_1" msprop:Generator_ColumnPropNameInTable="Description_1Column" msprop:Generator_UserColumnName="Description 1" type="xs:string" minOccurs="0" />
+              <xs:element name="Description_x0020_2" msprop:Generator_ColumnVarNameInTable="columnDescription_2" msprop:Generator_ColumnPropNameInRow="Description_2" msprop:Generator_ColumnPropNameInTable="Description_2Column" msprop:Generator_UserColumnName="Description 2" type="xs:string" minOccurs="0" />
+              <xs:element name="CAD_x0024_" msprop:Generator_ColumnVarNameInTable="_columnCAD_" msprop:Generator_ColumnPropNameInRow="_CAD_" msprop:Generator_ColumnPropNameInTable="_CAD_Column" msprop:Generator_UserColumnName="CAD$" type="xs:decimal" minOccurs="0" />
+              <xs:element name="USD_x0024_" msprop:Generator_ColumnVarNameInTable="_columnUSD_" msprop:Generator_ColumnPropNameInRow="_USD_" msprop:Generator_ColumnPropNameInTable="_USD_Column" msprop:Generator_UserColumnName="USD$" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="Catagory" msprop:Generator_ColumnVarNameInTable="columnCatagory" msprop:Generator_ColumnPropNameInRow="Catagory" msprop:Generator_ColumnPropNameInTable="CatagoryColumn" msprop:Generator_UserColumnName="Catagory" type="xs:string" minOccurs="0" />
+              <xs:element name="UniqueExpenseID" msprop:Generator_ColumnVarNameInTable="columnUniqueExpenseID" msprop:Generator_ColumnPropNameInRow="UniqueExpenseID" msprop:Generator_ColumnPropNameInTable="UniqueExpenseIDColumn" msprop:Generator_UserColumnName="UniqueExpenseID" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:tttDeletedExpenses" />
+      <xs:field xpath="mstns:UniqueExpenseID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

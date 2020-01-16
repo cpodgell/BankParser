@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SubCatagory" targetNamespace="http://tempuri.org/SubCatagory.xsd" xmlns:mstns="http://tempuri.org/SubCatagory.xsd" xmlns="http://tempuri.org/SubCatagory.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SubCatagory" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="SubCatagory" msprop:Generator_UserDSName="SubCatagory">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tttSubCatagory" msprop:Generator_TableClassName="tttSubCatagoryDataTable" msprop:Generator_TableVarName="tabletttSubCatagory" msprop:Generator_RowChangedName="tttSubCatagoryRowChanged" msprop:Generator_TablePropName="tttSubCatagory" msprop:Generator_RowDeletingName="tttSubCatagoryRowDeleting" msprop:Generator_RowChangingName="tttSubCatagoryRowChanging" msprop:Generator_RowEvHandlerName="tttSubCatagoryRowChangeEventHandler" msprop:Generator_RowDeletedName="tttSubCatagoryRowDeleted" msprop:Generator_RowClassName="tttSubCatagoryRow" msprop:Generator_UserTableName="tttSubCatagory" msprop:Generator_RowEvArgName="tttSubCatagoryRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SubCatagoryName" msprop:Generator_ColumnVarNameInTable="columnSubCatagoryName" msprop:Generator_ColumnPropNameInRow="SubCatagoryName" msprop:Generator_ColumnPropNameInTable="SubCatagoryNameColumn" msprop:Generator_UserColumnName="SubCatagoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="SubCatagoryCode" msprop:Generator_ColumnVarNameInTable="columnSubCatagoryCode" msprop:Generator_ColumnPropNameInRow="SubCatagoryCode" msprop:Generator_ColumnPropNameInTable="SubCatagoryCodeColumn" msprop:Generator_UserColumnName="SubCatagoryCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Catagory" msprop:Generator_ColumnVarNameInTable="columnCatagory" msprop:Generator_ColumnPropNameInRow="Catagory" msprop:Generator_ColumnPropNameInTable="CatagoryColumn" msprop:Generator_UserColumnName="Catagory" type="xs:string" default="" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

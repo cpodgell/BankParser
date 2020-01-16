@@ -1,0 +1,223 @@
+<?xml version="1.0" standalone="yes"?>
+<CatagoryMapping xmlns="http://tempuri.org/CatagoryMapping.xsd">
+  <ttiCatagories>
+    <ProductName>EARL'S</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>STARBUCKS</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>RESTAURANT</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>YOGA</ProductName>
+    <Catagory>Fitness</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>PHO CENTRAL</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>VANCOUVER AQUARIUM(CA1 VANCOUVER BC�</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>COBS BREAD # 9009 VANCOUVER BC�</ProductName>
+    <Catagory>Food</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>COFFEE</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>WHOLE FOODS</ProductName>
+    <Catagory>Food</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>GREEN'S MARKET</ProductName>
+    <Catagory>Food</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>FOODS</ProductName>
+    <Catagory>Food</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>SAFEWAY</ProductName>
+    <Catagory>Food</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>PAN PACIFIC VANCOUVER VANCOUVER BC�</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>VINCI PARK - CANADA PLACEVANCOUVER BC�</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>HOTEL GEORGIA PROHIBIT VANCOUVER BC�</ProductName>
+    <Catagory>Entertainment</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>YELLOW CAB</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>NU NU'S</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>COAST TO COAST #4 VANCOUVER BC�</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>PETROCAN-1721 ROSS ROAD KELOWNA BC�</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>YMCA</ProductName>
+    <Catagory>Fitness</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>SELECTYOURTICKETS</ProductName>
+    <Catagory>Entertainment</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>BLACKTOP &amp; CHECKER</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>GREYHOUND</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>MODO</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>CARLOS O'BRYAN'S</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>CHOP N TOSS (CA100) BURNABY BC�</ProductName>
+    <Catagory>Misc.</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>RBC GENERAL INSURANCE CO MISSISSAUGA ON�</ProductName>
+    <Catagory>Fixed Cost</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>LIQUIDS AND SOLIDS</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>DRUG</ProductName>
+    <Catagory>Drug Store</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>FLYING PIG</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>SUSHI</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>DAVIE ST. YIG #1878 VANCOUVER BC�</ProductName>
+    <Catagory>Misc.</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>MACLURES</ProductName>
+    <Catagory>Travel</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>CHE LICIOUS VANCOUVER BC�</ProductName>
+    <Catagory>Misc.</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>49TH PARALLEL</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>PURDYS CHOCOLATIER</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>SQ *HELP CHANGE MY CITY Vancouver BC�</ProductName>
+    <Catagory>Misc.</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>ELAN SHOE</ProductName>
+    <Catagory>Clothing</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>THE BAY</ProductName>
+    <Catagory>Clothing</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>BANANA REPUBLIC</ProductName>
+    <Catagory>Clothing</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>LA PREP VANCOUVER BC�</ProductName>
+    <Catagory>Clothing</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>TIM HORTONS</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>MONGOLIAN HOT POT</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>BODY ENERGY</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>FEDEX OFFICE CANADA VANCOUVER BC�</ProductName>
+    <Catagory>Misc.</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>FXO-WEST BROADWAY VANCOUVER BC�</ProductName>
+    <Catagory>Misc.</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>BURRARD LIQUOR</ProductName>
+    <Catagory>Entertainment</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>MEAT &amp; BREAD</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>PEPITAS ON TOP</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>FAMOUS PLAYER</ProductName>
+    <Catagory>Entertainment</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>PIER 1 IMPORTS</ProductName>
+    <Catagory>Misc.</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>BLIZZARD ENT</ProductName>
+    <Catagory>Entertainment</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>B FIERCE</ProductName>
+    <Catagory>Hair</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>YYOGA</ProductName>
+    <Catagory>Fitness</Catagory>
+  </ttiCatagories>
+  <ttiCatagories>
+    <ProductName>FORAGE &amp; TIMBER</ProductName>
+    <Catagory>Restaurant</Catagory>
+  </ttiCatagories>
+</CatagoryMapping>

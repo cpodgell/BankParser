@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Income" targetNamespace="http://tempuri.org/Income.xsd" xmlns:mstns="http://tempuri.org/Income.xsd" xmlns="http://tempuri.org/Income.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Income" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Income" msprop:Generator_UserDSName="Income" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tttIncome" msprop:Generator_UserTableName="tttIncome" msprop:Generator_RowDeletedName="tttIncomeRowDeleted" msprop:Generator_TableClassName="tttIncomeDataTable" msprop:Generator_RowChangedName="tttIncomeRowChanged" msprop:Generator_RowClassName="tttIncomeRow" msprop:Generator_RowChangingName="tttIncomeRowChanging" msprop:Generator_RowEvArgName="tttIncomeRowChangeEvent" msprop:Generator_RowEvHandlerName="tttIncomeRowChangeEventHandler" msprop:Generator_TablePropName="tttIncome" msprop:Generator_TableVarName="tabletttIncome" msprop:Generator_RowDeletingName="tttIncomeRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Year" msprop:Generator_UserColumnName="Year" msprop:Generator_ColumnPropNameInRow="Year" msprop:Generator_ColumnVarNameInTable="columnYear" msprop:Generator_ColumnPropNameInTable="YearColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Month" msprop:Generator_UserColumnName="Month" msprop:Generator_ColumnPropNameInRow="Month" msprop:Generator_ColumnVarNameInTable="columnMonth" msprop:Generator_ColumnPropNameInTable="MonthColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IsCPP" msprop:Generator_UserColumnName="IsCPP" msprop:Generator_ColumnPropNameInRow="IsCPP" msprop:Generator_ColumnVarNameInTable="columnIsCPP" msprop:Generator_ColumnPropNameInTable="IsCPPColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

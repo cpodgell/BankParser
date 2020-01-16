@@ -1,0 +1,1809 @@
+<?xml version="1.0" standalone="yes"?>
+<Catagory xmlns="http://tempuri.org/Catagory.xsd">
+  <tttCatagory>
+    <CatagoryName>PHO CENTRAL VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>PHO CENTRAL VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HUDSON'S BAY</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>HUDSON'S BAY</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>EXPRESS </CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>EXPRESS </Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>H&amp;amp;M CA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>H&amp;amp;M CA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHOPPERSDRUGMART</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Drugstore</BudgetItemName>
+    <Description>SHOPPERSDRUGMART</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CANUCKS SPORTS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>CANUCKS SPORTS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>UDEMY.COM</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>UDEMY.COM</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MODO CO OPERATIVE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>MODO CO OPERATIVE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HOT PIE PIZZA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>HOT PIE PIZZA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE POKE SHOP</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>THE POKE SHOP</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GALLERY CAFE AND CATER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>GALLERY CAFE AND CATER</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TAXI</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>TAXI</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COBS BREAD</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>COBS BREAD</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>EARL'S</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>EARL'S</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BURO VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>BURO VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PORTLAND CRAFT</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>PORTLAND CRAFT</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BC LIQUOR</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Alcohol</BudgetItemName>
+    <Description>BC LIQUOR</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MARKETPLACE IGA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>MARKETPLACE IGA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WONDERLAND DOLLAR STORE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>WONDERLAND DOLLAR STORE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>YYOGA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>YYOGA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HYCROFT FAMILY CHIROPRACTVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>HYCROFT FAMILY CHIROPRACTVANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NESTERS MARKET</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>NESTERS MARKET</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SQ *PROPAGANDA COFFEE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>SQ *PROPAGANDA COFFEE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MCDONALD'S</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MCDONALD'S</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GREYHOUND CAN</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>GREYHOUND CAN</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PETROCAN</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>PETROCAN</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SAVE ON FOODS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>SAVE ON FOODS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PAYPAL *GIFTMASTERS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>PAYPAL *GIFTMASTERS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MAHONY &amp;amp; SONS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MAHONY &amp;amp; SONS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>B FIERCE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Haircut</BudgetItemName>
+    <Description>B FIERCE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NELSON THE SEAGULL VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>NELSON THE SEAGULL VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RITUAL RESTAURANT</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>RITUAL RESTAURANT</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName> COFFEE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description> COFFEE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE BLIND SPARROW</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE BLIND SPARROW</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TEN TEN TAPAS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TEN TEN TAPAS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DAVIE ST. YIG #1878 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>DAVIE ST. YIG #1878 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>UFC.TV</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>UFC.TV</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>EVO CAR SHARE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>EVO CAR SHARE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RESTORING DATA VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Electronics</BudgetItemName>
+    <Description>RESTORING DATA VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LIQUIDS AND SOLIDS VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>LIQUIDS AND SOLIDS VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE CHARLES BAR VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE CHARLES BAR VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DESERRES VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>DESERRES VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NEW APPLE FARM MARKET LTDVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>NEW APPLE FARM MARKET LTDVANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NOAHS PET ARK VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>NOAHS PET ARK VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BROADWAY CAMERA VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Electronics</BudgetItemName>
+    <Description>BROADWAY CAMERA VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GREEN'S MARKET VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>GREEN'S MARKET VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CAFFE AL MERCATO WEST VANCOUVEBC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CAFFE AL MERCATO WEST VANCOUVEBC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>X FUEL NUTRITION VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>X FUEL NUTRITION VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WINNERSHOMESENSE 40207 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>WINNERSHOMESENSE 40207 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PROVENCE MARINASIDE FO VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>PROVENCE MARINASIDE FO VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MEINHARDT FINE FOODS VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>MEINHARDT FINE FOODS VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MING WO GRANVILLE VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MING WO GRANVILLE VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>EYE CANDY OPTICAL VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>EYE CANDY OPTICAL VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>L'ABATTOIR VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>L'ABATTOIR VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>QQ SUSHI VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>QQ SUSHI VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WENDY'S #6578 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>WENDY'S #6578 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COOPER'S #149 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>COOPER'S #149 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BLACKTOP &amp; CHECKER CABS#1VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>BLACKTOP &amp; CHECKER CABS#1VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PETER'S YIG STORE 1816 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>PETER'S YIG STORE 1816 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PIONEER MEATS WEST KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>PIONEER MEATS WEST KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CAPRI VALLEY LANES KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>CAPRI VALLEY LANES KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MODO VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>MODO VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BLACKTOP &amp; CHECKER CABS#8VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>BLACKTOP &amp; CHECKER CABS#8VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WESTJET CALGARY AB</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Flights</BudgetItemName>
+    <Description>WESTJET CALGARY AB</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>KERNELS POPCORN KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>KERNELS POPCORN KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>EB GAMES 860 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>EB GAMES 860 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BOOSTERJUICE-24 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>BOOSTERJUICE-24 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TIM HORTONS 3161 QTH VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TIM HORTONS 3161 QTH VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BLACKTOP &amp; CHECKER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>BLACKTOP &amp; CHECKER</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HUDSON NEWS RICHMOND BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>HUDSON NEWS RICHMOND BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PARADIES-VANCOUVER RICHMOND BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>PARADIES-VANCOUVER RICHMOND BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TACOFINO GAS TOWN INC VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TACOFINO GAS TOWN INC VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ONE UNDER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>ONE UNDER VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>REAL CDN SUPERSTORE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>REAL CDN SUPERSTORE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ACT YMCA OKANAGAN KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>ACT YMCA OKANAGAN KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NU NU'S SANDWICH BAR VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>NU NU'S SANDWICH BAR VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHOPPERS DRUG MART</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Drugstore</BudgetItemName>
+    <Description>SHOPPERS DRUG MART</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>FORAGE &amp; TIMBER REST VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>FORAGE &amp; TIMBER REST VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WEST VALLEY MARKET VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>WEST VALLEY MARKET VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HWASARANG VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>HWASARANG VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VANCOUVER EUROPEAN DELI VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>VANCOUVER EUROPEAN DELI VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WWW.STEAMPOWERED.COM LUXEMBOURG</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>WWW.STEAMPOWERED.COM LUXEMBOURG</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TRACTOR VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TRACTOR VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HEIRLOOM VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>HEIRLOOM VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NESPRESSO CANADA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Houseware</BudgetItemName>
+    <Description>NESPRESSO CANADA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BEST BUY #705 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Electronics</BudgetItemName>
+    <Description>BEST BUY #705 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CINEPLEX 1149 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>CINEPLEX 1149 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ANTON'S PASTA BAR BURNABY BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>ANTON'S PASTA BAR BURNABY BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ENERGYPLEX FAMILY RECREATKELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>ENERGYPLEX FAMILY RECREATKELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>FATBURGER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>FATBURGER</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BELLA GELATERIA VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>BELLA GELATERIA VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LEGENDS OF THE MOON VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>LEGENDS OF THE MOON VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ANCORA WATERFRONT DINING VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>ANCORA WATERFRONT DINING VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CAMPAGNOLO RESTAURANT VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CAMPAGNOLO RESTAURANT VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COMPASS VENDING BURNABY BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>COMPASS VENDING BURNABY BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>UNDERSPORTS INC 3234645444 CA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>UNDERSPORTS INC 3234645444 CA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SQ *FRESH BOWL FOODS LTD VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SQ *FRESH BOWL FOODS LTD VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LIQUOR STORE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Alcohol</BudgetItemName>
+    <Description>LIQUOR STORE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE YALE SALOON VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE YALE SALOON VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SAI WOO CHOP SUEY VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SAI WOO CHOP SUEY VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CHAMBAR RESTAURANT VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CHAMBAR RESTAURANT VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PITA PIT - 27</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>PITA PIT - 27</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MORENO'S MARKET AND DE LANGLEY BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MORENO'S MARKET AND DE LANGLEY BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TOYS R US #3546 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>TOYS R US #3546 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PITA PIT</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>PITA PIT</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SAFEWAY</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>SAFEWAY</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHELL 634 HARVEY AVENUE KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>SHELL 634 HARVEY AVENUE KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE HASTINGS WAREHOUSE VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE HASTINGS WAREHOUSE VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NCIX - VANCOUVER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Electronics</BudgetItemName>
+    <Description>NCIX - VANCOUVER VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>INTUIT CANADA 780-466-9996 AB</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>INTUIT CANADA 780-466-9996 AB</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VAN DENTAL CLINIC VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>VAN DENTAL CLINIC VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GAP CANADA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>GAP CANADA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DOLLAR TREE #40101 WESTBANK BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>DOLLAR TREE #40101 WESTBANK BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ATMOSPHERE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>ATMOSPHERE</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CDN TIRE STORE #00389 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Houseware</BudgetItemName>
+    <Description>CDN TIRE STORE #00389 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>YELLOW CAB</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>YELLOW CAB</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>URBAN REC WWW.NONE.COM BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>URBAN REC WWW.NONE.COM BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THAI STYLES RESTAURANT LTABBOTSFORD BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THAI STYLES RESTAURANT LTABBOTSFORD BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WHITE SPOT TRIPLE O'S</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>WHITE SPOT TRIPLE O'S</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NOODLEBOX</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>NOODLEBOX</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>T&amp;T SUPERMARKET</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>T&amp;T SUPERMARKET</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>FLAMAN FITNESS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>FLAMAN FITNESS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHELL FLYING J HOPE BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SHELL FLYING J HOPE BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WATCH IT KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>WATCH IT KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SAJE NATURAL WELLNESS KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>SAJE NATURAL WELLNESS KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STEVE MADDEN (SM16) VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>STEVE MADDEN (SM16) VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RW &amp; CO.</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>RW &amp; CO.</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE RAMEN BUTCHER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE RAMEN BUTCHER</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE EMERALD VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE EMERALD VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>URBAN BODY LASER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Cosmetic</BudgetItemName>
+    <Description>URBAN BODY LASER VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>QUIZNOS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>QUIZNOS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>INDIGO 789 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Hobby</BudgetItemName>
+    <Description>INDIGO 789 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PLANET VEG VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>PLANET VEG VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SEAFOOD CITY VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>SEAFOOD CITY VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CDN TIRE STORE #00612 WESTBANK BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Houseware</BudgetItemName>
+    <Description>CDN TIRE STORE #00612 WESTBANK BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DAISO STORE CANADA RICHMOND BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>DAISO STORE CANADA RICHMOND BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MAZAZU CREPE RICHMOND BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MAZAZU CREPE RICHMOND BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>H&amp;M CA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>H&amp;M CA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THIRD BEACH CONCESSION VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THIRD BEACH CONCESSION VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DISPLACE HASHERY VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>DISPLACE HASHERY VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHELL 7670 VEDDER RD.. CHILLIWACK BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SHELL 7670 VEDDER RD.. CHILLIWACK BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GATEWAY NEWSTANDS #618 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>GATEWAY NEWSTANDS #618 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BLACKTOP&amp;CHECKER CABS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>BLACKTOP&amp;CHECKER CABS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>OKANAGAN RENT A BOAT CA KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>OKANAGAN RENT A BOAT CA KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>IMPARK</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>IMPARK</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GOOGLE *FOX AND SHEEP G.CO/PAYHELP#NS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>GOOGLE *FOX AND SHEEP G.CO/PAYHELP#NS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WICKLOW PUB VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>WICKLOW PUB VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>805 POINT GREY WINE VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Alcohol</BudgetItemName>
+    <Description>805 POINT GREY WINE VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NESPRESSO VANCOUVER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>NESPRESSO VANCOUVER VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>FAT MAO KITCHEN VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Houseware</BudgetItemName>
+    <Description>FAT MAO KITCHEN VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>7-ELEVEN</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>7-ELEVEN</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COCKTAILS AND CANAPES CATVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>COCKTAILS AND CANAPES CATVANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE BRASSNECK BREWERY VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE BRASSNECK BREWERY VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MAIN STREET BREWING COMPAVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MAIN STREET BREWING COMPAVANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STEEL TOAD BREWING VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>STEEL TOAD BREWING VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BANANA LEAF ON DENMAN VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>BANANA LEAF ON DENMAN VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE FRINGE CAFE VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE FRINGE CAFE VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MEGA BITE PIZZA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MEGA BITE PIZZA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SQ *BIG ROGER EVENTS VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>SQ *BIG ROGER EVENTS VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DOCKSIDE BREWING COMPANY VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>DOCKSIDE BREWING COMPANY VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CULTUS LAKE WATERPARK CULTUS LAKE BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>CULTUS LAKE WATERPARK CULTUS LAKE BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DD MAU VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>DD MAU VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DOMINOS PIZZA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>DOMINOS PIZZA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CYSTIC FIBROSIS CANADA TORONTO ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>CYSTIC FIBROSIS CANADA TORONTO ON</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ROMER'S 4TH AVE.</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>ROMER'S 4TH AVE.</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STEAMGAMES.COM</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>STEAMGAMES.COM</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LITTLE SISTERS BOOK &amp; VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>LITTLE SISTERS BOOK &amp; VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WESTJET</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Flights</BudgetItemName>
+    <Description>WESTJET</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LOBLAWS CITY MARKET-AR VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>LOBLAWS CITY MARKET-AR VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PAN PACIFIC WHISTLER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>PAN PACIFIC WHISTLER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COMPASS AUTOLOAD</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>COMPASS AUTOLOAD</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BEST BUY #600 SURREY BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Electronics</BudgetItemName>
+    <Description>BEST BUY #600 SURREY BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>KISSA TANTO RESTAURANT VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>KISSA TANTO RESTAURANT VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COLD BEER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Alcohol</BudgetItemName>
+    <Description>COLD BEER</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BEST BUY.CA # 899 RICHMOND BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Electronics</BudgetItemName>
+    <Description>BEST BUY.CA # 899 RICHMOND BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE RAMEN GOJIRO VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE RAMEN GOJIRO VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SQ *THE TWISTED LEMON DELTA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>SQ *THE TWISTED LEMON DELTA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHELL OIL 63670220179 PT.ROBERTS WA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>SHELL OIL 63670220179 PT.ROBERTS WA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>KINISKIS REEF POINT ROBERTSWA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>KINISKIS REEF POINT ROBERTSWA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WAL-MART SUPERCENTER#3042KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>WAL-MART SUPERCENTER#3042KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>KELOWNA CABS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>KELOWNA CABS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TIM HORTONS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>TIM HORTONS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RESTAURANT</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>RESTAURANT</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PRECISE PARKLINK INC TORONTO ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>PRECISE PARKLINK INC TORONTO ON</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE PINK DOOR SEATTLE WA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE PINK DOOR SEATTLE WA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DEJAVU SUPER STORE SEATTLE WA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>DEJAVU SUPER STORE SEATTLE WA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHELL OIL</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>SHELL OIL</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE GREAT WHEEL COM SEATTLE WA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>THE GREAT WHEEL COM SEATTLE WA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CHIHULY G&amp;G TICKETS SEATTLE WA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>CHIHULY G&amp;G TICKETS SEATTLE WA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PINTXO SEATTLE WA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>PINTXO SEATTLE WA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>INFORMACANADA EVENTS CONFVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>INFORMACANADA EVENTS CONFVANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VANCOUVER CONVENTION CTR VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>VANCOUVER CONVENTION CTR VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WHOLE FOODS MARKET VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>WHOLE FOODS MARKET VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>POKERRITO VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>POKERRITO VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VANCOUVER PB RECREATION VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>VANCOUVER PB RECREATION VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HUBBUB SANDWICHES VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>HUBBUB SANDWICHES VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SCANDIA GOLF &amp; GAMES KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>SCANDIA GOLF &amp; GAMES KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MAHONY &amp; SONS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>MAHONY &amp; SONS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE EDGE CLIMBING CENTRE NORTH VANCOUVBC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>THE EDGE CLIMBING CENTRE NORTH VANCOUVBC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BANANA REPUBLIC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>BANANA REPUBLIC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NEW BALANCE VANCOUVER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>NEW BALANCE VANCOUVER VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LULULEMON #00110 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>LULULEMON #00110 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CRAFT BEER MKT VANCOUV VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CRAFT BEER MKT VANCOUV VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>EL CAMINO'S VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>EL CAMINO'S VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SQ *MCMILLAN FARMS KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>SQ *MCMILLAN FARMS KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DOLLARAMA #0937 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>DOLLARAMA #0937 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SHELL 1850 K.L.O. RD KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>SHELL 1850 K.L.O. RD KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VILLAGE TAPHOUSE WEST VANCOUVEBC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>VILLAGE TAPHOUSE WEST VANCOUVEBC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>YALETOWN BREWING CO. VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>YALETOWN BREWING CO. VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ONGBA VIETNAMESE EATERY VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>ONGBA VIETNAMESE EATERY VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>HORIZON HOTEL NEW WESTMINSTBC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>HORIZON HOTEL NEW WESTMINSTBC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DONALD'S MARKET NEW WESTMINSTBC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>DONALD'S MARKET NEW WESTMINSTBC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CHAPTERS 916 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Hobby</BudgetItemName>
+    <Description>CHAPTERS 916 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>FAMOUS PLAYER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>FAMOUS PLAYER</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DOC WILLOUGHBY'S PUB KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>DOC WILLOUGHBY'S PUB KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ACT*YMCA OKANAGAN 250-764-4040 BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>ACT*YMCA OKANAGAN 250-764-4040 BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CACTUS CLUB</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CACTUS CLUB</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CROWDTORCH 8009220939 NB</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>CROWDTORCH 8009220939 NB</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VERAS BURGER SHACK - W VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>VERAS BURGER SHACK - W VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>TOYS R US # 3563 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>TOYS R US # 3563 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MT.SEYMOUR RESORTS N VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>MT.SEYMOUR RESORTS N VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>FLYING PIG VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>FLYING PIG VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VANCOUVER AQUARIUM(CA1 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>VANCOUVER AQUARIUM(CA1 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CHOP N TOSS (CA100) BURNABY BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CHOP N TOSS (CA100) BURNABY BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COAST TO COAST #4 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>COAST TO COAST #4 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>VINCI PARK - CANADA PLACEVANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>VINCI PARK - CANADA PLACEVANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RBC GENERAL INSURANCE CO MISSISSAUGA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>RBC GENERAL INSURANCE CO MISSISSAUGA ON</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PAN PACIFIC VANCOUVER VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Vacation</BudgetItemName>
+    <Description>PAN PACIFIC VANCOUVER VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CITY OF KELOWNA - PARKADEKELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>CITY OF KELOWNA - PARKADEKELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>A&amp;W #0761 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>A&amp;W #0761 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STOKES KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Houseware</BudgetItemName>
+    <Description>STOKES KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BEST BUY #914 KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Electronics</BudgetItemName>
+    <Description>BEST BUY #914 KELOWNA BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SQ *LIGHT MAZE VANCOUVER ABBOTSFORD BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>SQ *LIGHT MAZE VANCOUVER ABBOTSFORD BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AC ROUGE ON BOARD CAFE MISSISSAUGA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>AC ROUGE ON BOARD CAFE MISSISSAUGA ON</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CATCH 122 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CATCH 122 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CASH CADECA 2 MELIA COHIBCIUDAD HABANA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Vacation</BudgetItemName>
+    <Description>CASH CADECA 2 MELIA COHIBCIUDAD HABANA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CARIBEANTRAVELWEB SONDIKA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Vacation</BudgetItemName>
+    <Description>CARIBEANTRAVELWEB SONDIKA</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GOOGLE *2D BOY G.CO/PAYHELP#NS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>GOOGLE *2D BOY G.CO/PAYHELP#NS</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>YYZ TEMP JETBOX INTERNATMISSISSAUGA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>YYZ TEMP JETBOX INTERNATMISSISSAUGA ON</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LONDON DRUGS 19 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Drugstore</BudgetItemName>
+    <Description>LONDON DRUGS 19 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>ROBSON STREET VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>ROBSON STREET VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SKYLIGHT OPTICAL VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>SKYLIGHT OPTICAL VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>SWIMCO #24 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>SWIMCO #24 VANCOUVER BC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AIRBNB 14158005959</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Vacation</BudgetItemName>
+    <Description>AIRBNB 14158005959</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AIR TRANSAT 649S8P SAINT-LAURENTQC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>AIR TRANSAT 649S8P SAINT-LAURENTQC</Description>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CAR2GO</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>CAR2GO</Description>
+    <SubCatagory>Car2Go</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NOFRILLS ALFIE'S #3411 VANCOUVER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>NOFRILLS ALFIE'S #3411 VANCOUVER</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>URBAN BODY LASER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Cosmetic</BudgetItemName>
+    <Description>URBAN BODY LASER</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WENDYS </CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>WENDYS </Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WINNERS 358</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>WINNERS 358</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>WWW.BLOOMEX.CA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>WWW.BLOOMEX.CA</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>X FUEL NUTRITION</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>X FUEL NUTRITION</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE PINT PUBLIC HOUSE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>THE PINT PUBLIC HOUSE</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>THE BAY</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Clothes</BudgetItemName>
+    <Description>THE BAY</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>Ron Zalko</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Fitness</BudgetItemName>
+    <Description>Ron Zalko</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>PETER'S YIG STORE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>PETER'S YIG STORE</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>QQ SUSHI</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>QQ SUSHI</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>846 LB KELOWNA KELOWNA BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>846 LB KELOWNA KELOWNA BC</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>METRO VANCOUVER / GVRD PABURNABY BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>METRO VANCOUVER / GVRD PABURNABY BC</Description>
+    <SubCatagory>Parking</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AIR CANADA 0142169332689AIRCANADA.COMMB</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Vacation</BudgetItemName>
+    <Description>AIR CANADA 0142169332689AIRCANADA.COMMB</Description>
+    <SubCatagory>Flight</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AIR CANADA 0142169676416AIRCANADA.COMMB</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Vacation</BudgetItemName>
+    <Description>AIR CANADA 0142169676416AIRCANADA.COMMB</Description>
+    <SubCatagory>Flight</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AIR CANADA ON BOARD CA MISSISSAUGA ON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Vacation</BudgetItemName>
+    <Description>AIR CANADA ON BOARD CA MISSISSAUGA ON</Description>
+    <SubCatagory>Flight</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>BODY ENERGY CLUB (KITS VANCOUVER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>BODY ENERGY CLUB (KITS VANCOUVER</Description>
+    <SubCatagory>Other</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CAFE CREPE</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CAFE CREPE</Description>
+    <SubCatagory>Lunch</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CINEPLEX </CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>CINEPLEX </Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COINAMATIC CANADA INC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>COINAMATIC CANADA INC</Description>
+    <SubCatagory>Laundry</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COOPER'S </CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>COOPER'S </Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COSTCO WHOLESALE W552</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>COSTCO WHOLESALE W552</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>COSTCO WHOLESALE W59</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>COSTCO WHOLESALE W59</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DESERRES</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Hobby</BudgetItemName>
+    <Description>DESERRES</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NETFLIX.COM</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Entertainment</BudgetItemName>
+    <Description>NETFLIX.COM</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>RBC REWARDS TRAVEL</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Ignore</BudgetItemName>
+    <Description>RBC REWARDS TRAVEL</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>NESPRESSO VANCOUVER</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>NESPRESSO VANCOUVER</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>LONDON DRUGS 74</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Houseware</BudgetItemName>
+    <Description>LONDON DRUGS 74</Description>
+    <SubCatagory />
+    <UniqueExpenseID>1c001353a91c4701bc22c3ebd3475cdd</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>CUCHILLO</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>CUCHILLO</Description>
+    <SubCatagory>Lunch</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>DNH*GODADDY.COM CAD</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>DNH*GODADDY.COM CAD</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GODADDY.COM CANADA</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>GODADDY.COM CANADA</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>MACLURES CABS</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Transportation</BudgetItemName>
+    <Description>MACLURES CABS</Description>
+    <SubCatagory>Cab</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>INTEREST PURCHASES</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>INTEREST PURCHASES</Description>
+    <SubCatagory>Laundry</SubCatagory>
+    <UniqueExpenseID>7bffca27d82948baa95b712ee81b27a7</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>GREEN'S MARKET</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Food</BudgetItemName>
+    <Description>GREEN'S MARKET</Description>
+    <SubCatagory />
+    <UniqueExpenseID />
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID>53ff6f05f5064b9a9767adad587df7d2</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID>8cff967a06e74ebab85c93dd22c7e5d8</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID>20312be558814b009a3cd1eead596003</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID>0e11e11021ff4304a2bee566d8ea6db2</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID>5f0be1ecb08f4c24acd425bc58c43abb</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Misc</BudgetItemName>
+    <Description>AMAZON *MARKETPLCE CA WWW.AMAZON.CAON</Description>
+    <SubCatagory>Common</SubCatagory>
+    <UniqueExpenseID>0331f0c24a47463f984970ed02314ec7</UniqueExpenseID>
+  </tttCatagory>
+  <tttCatagory>
+    <CatagoryName>STARBUCKS 04544 VANCOUVER BC</CatagoryName>
+    <BudgetItemCode>S</BudgetItemCode>
+    <BudgetItemName>Restaurant</BudgetItemName>
+    <Description>STARBUCKS 04544 VANCOUVER BC</Description>
+    <SubCatagory>Coffee</SubCatagory>
+    <UniqueExpenseID />
+  </tttCatagory>
+</Catagory>

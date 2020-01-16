@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<BudgetItems xmlns="http://tempuri.org/BudgetItems.xsd">
+  <tttBudgetItems>
+    <ItemName>Something</ItemName>
+    <ItemAmount>970.00</ItemAmount>
+    <ItemType>Fixed</ItemType>
+    <ItemCode>SOM</ItemCode>
+  </tttBudgetItems>
+</BudgetItems>
